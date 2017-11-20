@@ -1,0 +1,11 @@
+For send command to butons controller enter number from 0 to 9 and "exit" for close program
+"1"- start default static color red/green
+"2"- red/green circular blink
+"3"- red/green circular blink with static orange
+"4"- red/green slow circular blink
+"5"- orange, red/green blink
+"6"- all color static light
+"7"- red/green blink
+"8" = "3"
+"9" = "no use"
+"0" -red/green slow circular with static orange
