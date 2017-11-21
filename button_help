@@ -1,4 +1,4 @@
-For send command to butons controller enter number from 0 to 9 and "exit" for close program
+For send command to buttons controller enter number from 0 to 9 and "exit" for close program
 "1"- start default static color red/green
 "2"- red/green circular blink
 "3"- red/green circular blink with static orange
